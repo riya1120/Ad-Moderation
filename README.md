@@ -3,7 +3,7 @@
 This project simulates the real-world responsibilities of a Content Reviewer at a platform like Amazon Ads. It includes a dataset of 150 ad entries categorized, moderated, and evaluated for policy violations. The project also demonstrates practical Excel features like **VLOOKUP**, **filtering**, **formulas**, and **data cleaning** to replicate moderation logic and reviewer-assignment workflows.
 
 ## Link
-[Excel Report](https://1drv.ms/x/c/981f247b2e4afe2d/EWLA6epI_P1IlwdMGlAJi5EBkI1Pi1qluffCtaLqf5JDXA?e=xr1RAh)
+[Ad Moderation Excel Report](https://1drv.ms/x/c/981f247b2e4afe2d/EWLA6epI_P1IlwdMGlAJi5EBkI1Pi1qluffCtaLqf5JDXA?e=xr1RAh)
 
 ## 📌 Features
 
